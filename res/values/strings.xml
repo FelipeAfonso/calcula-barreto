@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CalculaBarreto</string>
+    <string name="hello_world">Hello world!</string>
+    <color name="default_color">#007700</color>
+    <color name="op_color">#004400</color>
+    <color name="default_color_highlight">#00BB00</color>
+    <color name="op_color_highlight">#008800</color>
+
+</resources>
